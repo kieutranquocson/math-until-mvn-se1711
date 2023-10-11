@@ -1,3 +1,6 @@
+[![Math-Utility Project applying CI](https://github.com/kieutranquocson/math-until-mvn-se1711/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/kieutranquocson/math-until-mvn-se1711/actions/workflows/mathutil-ci.yml)
+
+
 ### Welcome to Math Utility Project
 
 
